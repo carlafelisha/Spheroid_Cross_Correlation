@@ -1,4 +1,4 @@
-# 2D Velocity Cross Correlation Script
+# 2D_Cross_Correlation.py
 
 ## Overview
 This Python script is designed to analyze 2D (XZ and YZ) positional data of cells tracked over time, with a focus on calculating and visualizing the spatial correlation of velocities between pairs of cells. The script facilitates the processing of raw data, data cleaning, calculation of velocity components, and the fitting of correlation functions. The ultimate goal is to extract meaningful biophysical parameters, such as the correlation length (Lcorr), that describe collective cell behavior.
